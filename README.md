@@ -1,5 +1,5 @@
 <p>
-  <img scr="https://c.tenor.com/vqEwlgN6N2wAAAAC/cyberpunk-cyberpunk-edgerunners.gif" alt="Cyberpunk" width="auto" height="auto"></img>
+  <img scr="https://c.tenor.com/vqEwlgN6N2wAAAAC/cyberpunk-cyberpunk-edgerunners.gif" alt="Cyberpunk" width="auto" height="auto"/>
 </p>
 
 
