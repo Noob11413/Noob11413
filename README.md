@@ -1,3 +1,8 @@
+<p>
+  <img scr="https://assets.rocketstock.com/uploads/2020/10/Cyberpunk-After-Effects-Plugins-AE-Pixel-Sorter-2.gif">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Joel T. Jayme</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
