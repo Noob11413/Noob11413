@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="https://wallpapercave.com/uwp/uwp1611517.gif" alt="banner" /></p>
+<p align="center"><img align="center" src="https://tenor.com/view/cyber-punk-anime-lucy-luce-cyberpunk-edgerunners-gif-26715473" alt="banner" /></p>
 
 
 <h1 align="center">Hi 👋, I'm Joel T. Jayme</h1>
