@@ -1,6 +1,4 @@
-<p>
-  <img scr="https://wallpapercave.com/uwp/uwp1611517.gif" alt = "Lucy"/>
-</p>
+<p align="center"><img align="center" src="https://wallpapercave.com/uwp/uwp1611517.gif" alt="banner" /></p>
 
 
 <h1 align="center">Hi 👋, I'm Joel T. Jayme</h1>
