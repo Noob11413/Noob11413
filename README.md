@@ -2,6 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Joel T. Jayme</h1>
+<h3 aligh="center">Im A computer science Student Im not really that good with programming but ill always do my best to be able to understand it.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/joey_ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joey_ng" height="30" width="40" /></a>
