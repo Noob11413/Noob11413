@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="https://tenor.com/view/judy-cyberpunk2077-cyberpunk-teamjudy-waifu-gif-19361156" alt="banner" /></p>
+<p align="center"><img align="center" src="https://wallpapercave.com/uwp/uwp2766838.jpeg" alt="banner" /></p>
 
 
 <h1 align="center">Hi 👋, I'm Joel T. Jayme</h1>
