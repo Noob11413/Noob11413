@@ -1,5 +1,5 @@
 <p>
-  <img scr="https://assets.rocketstock.com/uploads/2020/10/Cyberpunk-After-Effects-Plugins-AE-Pixel-Sorter-2.gif">
+  <img scr="https://assets.rocketstock.com/uploads/2020/10/Cyberpunk-After-Effects-Plugins-AE-Pixel-Sorter-2.gif" alt="bootstrap" width="800" height="800">
 </p>
 
 
