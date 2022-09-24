@@ -1,5 +1,5 @@
 <p>
-  <img scr="https://cdn.dribbble.com/users/1427228/screenshots/5497843/red.gif" alt="Cyberpunk" width="800" height="800">
+  <img scr="https://cdn.dribbble.com/users/1427228/screenshots/5497843/red.gif" alt="Cyberpunk" width="auto" height="auto">
 </p>
 
 
