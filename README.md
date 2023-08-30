@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="https://wallpapercave.com/uwp/uwp2766838.jpeg](https://www.uhdpaper.com/2022/05/kiwi-netrunner-cyberpunk-4k-6791i.html?m=1)" alt="banner" /></p>
+<p align="center"><img align="center" src="https://raw.githubusercontent.com/whoisYoges/lwalpapers/PicturesOnly/wallpapers/b-197.jpg" alt="banner" /></p>
 
 
 <h1 align="center">Hi 👋, I'm Joel T. Jayme</h1>
